@@ -12,8 +12,8 @@ I am CIA agent
 <br>
 
 - 🔭 I am currently working for o7
-- 🌱 I am learning C
-- 💬 wtf is this
+- 🌱 I am relearning python
+- 💬 Thinking about Jerusalem 
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>
