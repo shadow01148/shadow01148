@@ -1,8 +1,6 @@
 
 <br>
-<h2 align="center">Introduction</h2>
-
-### Total Issues = Total Issues IRL
+<h1 align="center">Introduction</h2>
 
 <br>
 <div align="center">
@@ -11,9 +9,12 @@
 </div>
 <br>
 
-- 🔭 I am currently working for o7
-- 🌱 I am relearning python
+- 🔭 I am currently working for o7 (2021 - present)
+  * they fucking hate me 
+- 🌱 I am a fullstack developer
 - 💬 Thinking about Jerusalem 
+  * has a long history of tension and disagreement
+  * center of the Israeli-Palestinian conflict
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>
