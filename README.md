@@ -4,7 +4,6 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadow01148&theme=blue-green">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadow01148">
 </div>
 <br>
